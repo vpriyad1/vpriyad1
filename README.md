@@ -36,6 +36,8 @@ Proteomics · Multi-omics integration · Genome annotation · Gene expression an
 | Project | What it does | Stack |
 |:--|:--|:--|
 | **[GFF3 Feature Exporter](https://github.com/vpriyad1/gff3-feature-exporter)** | Extracts a feature's FASTA sequence from a GFF3 annotation file by type and attribute — strand-aware, spec-compliant output | Python |
+| **[DigestSim](https://github.com/vpriyad1/digestsim)** · [live demo](https://digestsim.onrender.com) | Plans restriction digests in silico — scans 718 REBASE enzymes, returns cut sites, fragment sizes, overhangs, and a cut map, with saved submission history | Python · Flask · SQLite/MySQL · jQuery |
+
 ---
 
 ## Tools & Technologies
