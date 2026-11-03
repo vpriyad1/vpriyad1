@@ -13,7 +13,7 @@
 
 **Education**
 - M.S. Bioinformatics · Johns Hopkins University · 2025–2027
-- B.S. Biotechnology, *summa cum laude* · Rutgers University · 2021–2025
+- B.S. Biotechnology, *summa cum laude* · Rutgers University · 2023–2025
 
 **Currently** — Research Assistant at Biotech Support Group, where I design and run
 bead-chemistry binding experiments for the NRicher proteomic enrichment platform,
