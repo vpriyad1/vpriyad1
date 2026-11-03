@@ -29,7 +29,13 @@ database-driven web apps that other people can actually run.
 ## Research Interests
 
 Proteomics · Multi-omics integration · Genome annotation · Gene expression analysis · Pipeline development · Biomarker discovery
+---
 
+## Projects
+
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **[GFF3 Feature Exporter](https://github.com/vpriyad1/gff3-feature-exporter)** | Extracts a feature's FASTA sequence from a GFF3 annotation file by type and attribute — strand-aware, spec-compliant output | Python |
 ---
 
 ## Tools & Technologies
